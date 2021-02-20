@@ -1,4 +1,6 @@
-Курс Автоматизация тестирования с помощью Selenium и Python
-https://stepik.org/course/575/syllabus
 # stepik-auto-tests-course
-homework
+Курс Автоматизация тестирования c помощью Selenium и Python  
+адрес сайта https://stepic.org/course/575/syllabus
+
+Репозиторий для размещения домашних заданий.
+В репозиторий добавлены работы второго модуля.
